@@ -8,6 +8,11 @@ This repository contains a variety of data science projects and explorations tha
 
 == List of projects
 
-* https://nbviewer.jupyter.org/github/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[DataCamp: Word Frequency in Moby Dick]
+* *DataCamp: Word Frequency in Moby Dick*
 +
 This project uses the nltk toolkit to describe approximate word frequencies in the text of Herman Melville's novel Moby Dick, accounting for English stop words.
++
+Links:
++
+** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[View on GitHub]
+** https://hub.mybinder.org/user/capncodewash-da-cienceportfolio-06z2x2d8/notebooks/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[View on Binder]
