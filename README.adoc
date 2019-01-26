@@ -1,0 +1,13 @@
+= Data Science Portfolio
+
+_By Graeme West_
+
+
+
+This repository contains a variety of data science projects and explorations that I've done for personal development.
+
+== List of projects
+
+* https://nbviewer.jupyter.org/github/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[DataCamp: Word Frequency in Moby Dick]
++
+This project uses the nltk toolkit to describe approximate word frequencies in the text of Herman Melville's novel Moby Dick, accounting for English stop words.
