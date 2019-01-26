@@ -6,6 +6,10 @@ _By Graeme West_
 
 This repository contains a variety of data science projects and explorations that I've done for personal development.
 
+You can browse the list below, or click the Binder button below to launch the whole repository there. Note that this will probably only work for the Python projects with Jupyter notebooks
+
+image::https://mybinder.org/badge_logo.svg[link=https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master]
+
 == List of projects
 
 * *Word Frequency in Moby Dick (DataCamp)*
@@ -19,17 +23,17 @@ Python, nltk, matplotlib, Jupyter notebooks.
 Links:
 +
 ** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[View on GitHub]
-** https://hub.mybinder.org/user/capncodewash-da-cienceportfolio-06z2x2d8/notebooks/DataCamp_Word_Frequency_in_Moby_Dick/notebook.ipynb[View on Binder]
+** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_Word_Frequency_in_Moby_Dick%2Fnotebook.ipynb[View on Binder]
 
 * *A Network Analysis of Game of Thrones (DataCamp)*
 +
 A graph analysis project. By calculating different measures of network effects for major characters from the Game of Thrones books, this project seeks to determine the most important characters in each book. The measures used are the Google PageRank algorithm, betweenness centrality, and degree centrality.
 +
-Technolgies nad techniques used:
+Technolgies and techniques used:
 +
 Python, networkx, pandas, Jupyter notebooks.
 +
 Links:
 +
-** https://github.com/capncodewash/DataSciencePortfolio/blob/master/A_Network_analysis_of_Game_of_Thrones/notebook.ipynb[View on GitHub]
-** https://hub.mybinder.org/user/capncodewash-da-cienceportfolio-06z2x2d8/notebooks/A_Network_analysis_of_Game_of_Thrones/notebook.ipynb[View on Binder]
+** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_A_Network_analysis_of_Game_of_Thrones/notebook.ipynb[View on GitHub]
+** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_A_Network_analysis_of_Game_of_Thrones%2Fnotebook.ipynb[View on Binder]
