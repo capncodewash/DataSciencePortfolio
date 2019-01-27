@@ -37,3 +37,16 @@ Links:
 +
 ** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_A_Network_analysis_of_Game_of_Thrones/notebook.ipynb[View on GitHub]
 ** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_A_Network_analysis_of_Game_of_Thrones%2Fnotebook.ipynb[View on Binder]
+
+* *Reducing Traffic Mortality in the USA (DataCamp)*
+
+A project involving exploratory data analysis (EDA) and cluster analysis using the KMeans algorithm. The subject matter is CSV data covering mortality rates in traffic data.
++
+Technologies and techniques used:
++
+Python, scikit-learn, pandas, matplotlib, KMeans clustering, EDA
++
+Links:
++
+** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Reducing_Traffic_Mortality_in_the_USA/notebook.ipynb[View on GitHub]
+** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_Reducing_Traffic_Mortality_in_the_USA%2Fnotebook.ipynb[View on Binder]
