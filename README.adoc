@@ -39,7 +39,7 @@ Links:
 ** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_A_Network_analysis_of_Game_of_Thrones%2Fnotebook.ipynb[View on Binder]
 
 * *Reducing Traffic Mortality in the USA (DataCamp)*
-
++
 A project involving exploratory data analysis (EDA) and cluster analysis using the KMeans algorithm. The subject matter is CSV data covering mortality rates in traffic data.
 +
 Technologies and techniques used:
