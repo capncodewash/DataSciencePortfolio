@@ -50,3 +50,27 @@ Links:
 +
 ** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Reducing_Traffic_Mortality_in_the_USA/notebook.ipynb[View on GitHub]
 ** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_Reducing_Traffic_Mortality_in_the_USA%2Fnotebook.ipynb[View on Binder]
+
+* *Bad Passwords and the NIST Guidelines (DataCamp)*
++
+A project involving manipulation of Pandas dataframes to introduce new columns denoting particular negative properties of the passwords. By creating Pandas series containing the results of Boolean expressions on the contents, we can select rows and create subsets.
++
+Technologies and techniques used:
++
+Python, pandas
++
+Links:
++
+** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Bad_passwords_and_the_NIST_guidelines/notebook.ipynb[View on GitHub]
+** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_Bad_passwords_and_the_NIST_guidelines%2Fnotebook.ipynb[View on Binder]
+
+* *Classifying Song Genres from Audio Data (DataCamp)*
++
+In this project, we use the EchoNest dataset to predict the genre of songs from certain metadata characteristics, for example 'tempo' and 'energy'. We compare and evaluate the outputs of logistic regression and a decision tree classifier using K-fold cross-validation.
++
+Technologies and techniques used:
++
+Python, logistic regression, decision trees, K-fold cross validation, scikit-learn
++
+** https://github.com/capncodewash/DataSciencePortfolio/blob/master/DataCamp_Classify_Song_Genres_from_Audio_Data/notebook.ipynb[View on GitHub]
+** https://mybinder.org/v2/gh/capncodewash/DataSciencePortfolio/master?filepath=DataCamp_Classify_Song_Genres_from_Audio_Data%2Fnotebook.ipynb[View on Binder]
